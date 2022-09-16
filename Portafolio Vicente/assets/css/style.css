@@ -86,8 +86,14 @@ ul {
     margin-top: 30px;
 }
 
-.contactocontent table tr td img {
+.contactocontent p img {
     width: 50px;
-    margin-left: 180px;
+    margin: 90px;
     margin-top: 30px;
 }
+
+.contactocontent{
+    margin-left: auto;
+    margin-right: auto;
+}
+
